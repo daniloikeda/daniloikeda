@@ -21,6 +21,10 @@
 <div align="center">
   <img height="90em" src="https://github-readme-stats.vercel.app/api/pin/?username=daniloikeda&repo=pomorodo-method&theme=calm&custom_title=asd"/>
 </div>
+<br/>
+<div align="center">
+   <a href="https://www.linkedin.com/in/danilo-carneiro-ikeda-310492100/" target="_blank"><img height="25em" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank"></a>
+</div>
 <!--
 **daniloikeda/daniloikeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

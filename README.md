@@ -1,4 +1,3 @@
-
 <div align="center">
   <h3>👋</h3>
 </div>
@@ -18,9 +17,14 @@
   <img align="center" alt="Csharp" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
 </div>
 <br/>
+
 <div align="center">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=daniloikeda&repo=CreatingReactAppTutorial&theme=gruvbox_light"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=daniloikeda&repo=pomorodo-method&theme=solarized-light"/>
+  <a href="https://github.com/daniloikeda/CreatingReactAppTutorial">
+    <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=daniloikeda&repo=CreatingReactAppTutorial&theme=gruvbox_light"/>
+  </a>
+  <a href="https://github.com/daniloikeda/PomodoroMethod">
+    <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=daniloikeda&repo=pomorodo-method&theme=solarized-light"/>
+  </a>
 </div>
 <br/>
 <div align="center">

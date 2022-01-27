@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h3>Hi there 👋</h3>
+  <h3>👋</h3>
 </div>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloikeda&layout=compact&langs_count=7&theme=aura"/>

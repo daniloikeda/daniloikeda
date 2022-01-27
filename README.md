@@ -19,8 +19,8 @@
 </div>
 <br/>
 <div align="center">
-  <img height="90em" src="https://github-readme-stats.vercel.app/api/pin/?username=daniloikeda&repo=CreatingReactAppTutorial&theme=gruvbox_light"/>
-  <img height="90em" src="https://github-readme-stats.vercel.app/api/pin/?username=daniloikeda&repo=pomorodo-method&theme=solarized-light"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=daniloikeda&repo=CreatingReactAppTutorial&theme=gruvbox_light"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=daniloikeda&repo=pomorodo-method&theme=solarized-light"/>
 </div>
 <br/>
 <div align="center">

@@ -22,7 +22,7 @@
   <a href="https://github.com/daniloikeda/CreatingReactAppTutorial">
     <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=daniloikeda&repo=CreatingReactAppTutorial&theme=gruvbox_light"/>
   </a>
-  <a href="https://daniloikeda.github.io/pomodoro-method/">
+  <a href="https://daniloikeda.github.io/pomodoro-method/" target="_blank">
     <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=daniloikeda&repo=pomorodo-method&theme=solarized-light"/>
   </a>
 </div>

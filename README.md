@@ -19,6 +19,9 @@
 <br/>
 
 <div align="center">
+  <a href="https://github.com/daniloikeda/flipping-card" target="_blank">
+    <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=daniloikeda&repo=flipping-card&theme=moltack"/>
+  </a>
   <a href="https://github.com/daniloikeda/CreatingReactAppTutorial">
     <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=daniloikeda&repo=CreatingReactAppTutorial&theme=gruvbox_light"/>
   </a>

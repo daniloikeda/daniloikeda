@@ -17,18 +17,6 @@
   <img align="center" alt="Csharp" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
 </div>
 <br/>
-
-<div align="center">
-  <a href="https://github.com/daniloikeda/flipping-card" target="_blank">
-    <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=daniloikeda&repo=flipping-card&theme=moltack"/>
-  </a>
-  <a href="https://github.com/daniloikeda/CreatingReactAppTutorial">
-    <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=daniloikeda&repo=CreatingReactAppTutorial&theme=gruvbox_light"/>
-  </a>
-  <a href="https://daniloikeda.github.io/pomodoro-method/" target="_blank">
-    <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=daniloikeda&repo=pomorodo-method&theme=solarized-light"/>
-  </a>
-</div>
 <br/>
 <div align="center">
    <a href="https://www.linkedin.com/in/danilo-carneiro-ikeda-310492100/" target="_blank"><img height="25em" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank"></a>
